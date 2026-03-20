@@ -1,0 +1,244 @@
+🚀 Initializing KovaiDelivery: Enterprise Edition...
+--- Mission Started: Agent Senior Controller controlling 100 drones ---
+
+[Tick 0] Weather: CLEAR
+  Active Drones: 100/100
+  Deliveries: 0/200
+  Stats: Dist=0 Battery=0%
+📦 [Engine] Drone_000 picked up order 1051 (9.1kg)
+📦 [Engine] Drone_001 picked up order 1186 (1.6kg)
+📦 [Engine] Drone_003 picked up order 1169 (2.2kg)
+📦 [Engine] Drone_004 picked up order 1089 (2.3kg)
+📦 [Engine] Drone_008 picked up order 1145 (7.2kg)
+📦 [Engine] Drone_010 picked up order 1074 (5.7kg)
+📦 [Engine] Drone_011 picked up order 1126 (2.9kg)
+📦 [Engine] Drone_012 picked up order 1085 (4.3kg)
+📦 [Engine] Drone_014 picked up order 1190 (8.9kg)
+📦 [Engine] Drone_002 picked up order 1075 (1.2kg)
+📦 [Engine] Drone_015 picked up order 1081 (3.0kg)
+📦 [Engine] Drone_021 picked up order 1016 (8.5kg)
+📦 [Engine] Drone_005 picked up order 1055 (1.1kg)
+📦 [Engine] Drone_022 picked up order 1160 (5.0kg)
+📦 [Engine] Drone_024 picked up order 1105 (8.1kg)
+📦 [Engine] Drone_026 picked up order 1056 (5.0kg)
+📦 [Engine] Drone_027 picked up order 1174 (9.1kg)
+📦 [Engine] Drone_028 picked up order 1037 (4.8kg)
+📦 [Engine] Drone_029 picked up order 1113 (2.7kg)
+📦 [Engine] Drone_033 picked up order 1161 (9.4kg)
+📦 [Engine] Drone_037 picked up order 1196 (9.3kg)
+📦 [Engine] Drone_050 picked up order 1023 (8.0kg)
+📦 [Engine] Drone_030 picked up order 1171 (2.7kg)
+📦 [Engine] Drone_006 picked up order 1163 (1.9kg)
+📦 [Engine] Drone_007 picked up order 1006 (2.0kg)
+📦 [Engine] Drone_009 picked up order 1001 (1.8kg)
+📦 [Engine] Drone_053 picked up order 1071 (5.3kg)
+📦 [Engine] Drone_055 picked up order 1099 (6.8kg)
+📦 [Engine] Drone_059 picked up order 1043 (8.0kg)
+📦 [Engine] Drone_061 picked up order 1011 (7.8kg)
+📦 [Engine] Drone_062 picked up order 1068 (9.4kg)
+📦 [Engine] Drone_064 picked up order 1192 (5.7kg)
+📦 [Engine] Drone_013 picked up order 1135 (1.5kg)
+📦 [Engine] Drone_032 picked up order 1152 (3.1kg)
+📦 [Engine] Drone_066 picked up order 1058 (6.9kg)
+📦 [Engine] Drone_034 picked up order 1093 (3.6kg)
+📦 [Engine] Drone_069 picked up order 1064 (5.6kg)
+📦 [Engine] Drone_078 picked up order 1076 (6.0kg)
+📦 [Engine] Drone_084 picked up order 1033 (8.3kg)
+📦 [Engine] Drone_038 picked up order 1106 (2.9kg)
+📦 [Engine] Drone_086 picked up order 1100 (6.9kg)
+📦 [Engine] Drone_087 picked up order 1168 (6.4kg)
+📦 [Engine] Drone_088 picked up order 1079 (7.6kg)
+📦 [Engine] Drone_039 picked up order 1143 (3.7kg)
+📦 [Engine] Drone_090 picked up order 1047 (5.6kg)
+📦 [Engine] Drone_040 picked up order 1153 (3.5kg)
+📦 [Engine] Drone_091 picked up order 1046 (7.4kg)
+📦 [Engine] Drone_093 picked up order 1053 (6.8kg)
+📦 [Engine] Drone_043 picked up order 1077 (3.4kg)
+📦 [Engine] Drone_016 picked up order 1124 (1.0kg)
+📦 [Engine] Drone_046 picked up order 1050 (2.1kg)
+📦 [Engine] Drone_094 picked up order 1119 (8.1kg)
+📦 [Engine] Drone_048 picked up order 1111 (3.1kg)
+📦 [Engine] Drone_017 picked up order 1185 (0.8kg)
+📦 [Engine] Drone_049 picked up order 1024 (4.1kg)
+📦 [Engine] Drone_018 picked up order 1007 (1.4kg)
+📦 [Engine] Drone_019 picked up order 1176 (1.7kg)
+📦 [Engine] Drone_051 picked up order 1144 (2.5kg)
+📦 [Engine] Drone_054 picked up order 1141 (3.0kg)
+📦 [Engine] Drone_057 picked up order 1004 (4.5kg)
+💥 [Engine] Drone_055 CRASHED at (18.47442984265143, 0.9723384127711278) due to battery depletion!
+💥 [Engine] Drone_003 CRASHED at (-15.152001695994912, -9.470001059996822) due to battery depletion!
+💥 [Engine] Drone_011 CRASHED at (-14.144855003743343, 9.429903335828895) due to battery depletion!
+💥 [Engine] Drone_021 CRASHED at (-16.03083567090912, -5.657942001497337) due to battery depletion!
+💥 [Engine] Drone_014 CRASHED at (10.012104742725695, -11.832487423221272) due to battery depletion!
+💥 [Engine] Drone_010 CRASHED at (6.154229069337752, 13.187633720009472) due to battery depletion!
+💥 [Engine] Drone_037 CRASHED at (10.585786437626908, -10.585786437626908) due to battery depletion!
+💥 [Engine] Drone_024 CRASHED at (10.944519520890552, 7.5769750529242295) due to battery depletion!
+💥 [Engine] Drone_012 CRASHED at (10.972045698138091, 0.7837175498670061) due to battery depletion!
+💥 [Engine] Drone_087 CRASHED at (-3.478445782564487, -13.044171684616828) due to battery depletion!
+📦 [Engine] Drone_020 picked up order 1091 (1.2kg)
+📦 [Engine] Drone_060 picked up order 1062 (4.3kg)
+📦 [Engine] Drone_063 picked up order 1082 (2.6kg)
+📦 [Engine] Drone_071 picked up order 1083 (2.6kg)
+📦 [Engine] Drone_075 picked up order 1183 (3.6kg)
+📦 [Engine] Drone_076 picked up order 1166 (3.3kg)
+📦 [Engine] Drone_077 picked up order 1189 (2.4kg)
+💥 [Engine] Drone_029 CRASHED at (-8.014784133455025, -5.100317175835013) due to battery depletion!
+💥 [Engine] Drone_078 CRASHED at (-8.014784133455025, 5.100317175835013) due to battery depletion!
+💥 [Engine] Drone_004 CRASHED at (-10.543962627669629, 4.100429910760411) due to battery depletion!
+💥 [Engine] Drone_062 CRASHED at (-8.20526680779794, -2.735088935932648) due to battery depletion!
+💥 [Engine] Drone_069 CRASHED at (8.20526680779794, -2.735088935932648) due to battery depletion!
+💥 [Engine] Drone_038 CRASHED at (-5.600270275205989, 3.8771101905272256) due to battery depletion!
+💥 [Engine] Drone_040 CRASHED at (6.429393721611019, -4.133181678178511) due to battery depletion!
+💥 [Engine] Drone_093 CRASHED at (10.606601717798211, -10.606601717798211) due to battery depletion!
+💥 [Engine] Drone_000 CRASHED at (-5.357616545573704, 2.143046618229482) due to battery depletion!
+💥 [Engine] Drone_015 CRASHED at (-4.384760523591773, 1.25278872102622) due to battery depletion!
+💥 [Engine] Drone_034 CRASHED at (-0.6783627990898204, 5.0877209931736544) due to battery depletion!
+💥 [Engine] Drone_059 CRASHED at (2.999999999999999, -3.999999999999997) due to battery depletion!
+💥 [Engine] Drone_086 CRASHED at (-2.999999999999999, -3.999999999999997) due to battery depletion!
+💥 [Engine] Drone_091 CRASHED at (-12.587387132607741, -4.4954954045027655) due to battery depletion!
+💥 [Engine] Drone_002 CRASHED at (-0.8059443931235926, 1.025747409430027) due to battery depletion!
+💥 [Engine] Drone_005 CRASHED at (0.0, -0.5) due to battery depletion!
+💥 [Engine] Drone_009 CRASHED at (-2.332738110421969, 2.332738110421969) due to battery depletion!
+💥 [Engine] Drone_013 CRASHED at (-0.08320502943378462, 1.497690529808124) due to battery depletion!
+💥 [Engine] Drone_022 CRASHED at (0.38651034126196304, -3.4785930713576674) due to battery depletion!
+💥 [Engine] Drone_046 CRASHED at (3.6005992660405624, 3.273272060036874) due to battery depletion!
+📦 [Engine] Drone_023 picked up order 1087 (0.9kg)
+📦 [Engine] Drone_079 picked up order 1088 (4.6kg)
+📦 [Engine] Drone_081 picked up order 1195 (2.8kg)
+📦 [Engine] Drone_082 picked up order 1120 (4.6kg)
+📦 [Engine] Drone_085 picked up order 1150 (4.0kg)
+
+[Tick 50] Weather: CLEAR
+  Active Drones: 70/100
+  Deliveries: 43/200
+  Stats: Dist=1204.19 Battery=5575.42%
+📦 [Engine] Drone_097 picked up order 1114 (4.4kg)
+📦 [Engine] Drone_098 picked up order 1052 (3.0kg)
+📦 [Engine] Drone_099 picked up order 1165 (2.6kg)
+📦 [Engine] Drone_025 picked up order 1123 (1.3kg)
+📦 [Engine] Drone_031 picked up order 1122 (0.8kg)
+📦 [Engine] Drone_035 picked up order 1038 (0.7kg)
+📦 [Engine] Drone_036 picked up order 1057 (1.3kg)
+📦 [Engine] Drone_041 picked up order 1164 (1.6kg)
+📦 [Engine] Drone_042 picked up order 1127 (1.0kg)
+📦 [Engine] Drone_044 picked up order 1067 (0.6kg)
+📦 [Engine] Drone_045 picked up order 1080 (0.7kg)
+📦 [Engine] Drone_047 picked up order 1019 (1.9kg)
+📦 [Engine] Drone_052 picked up order 1117 (0.6kg)
+
+[Tick 100] Weather: WINDY
+  Active Drones: 70/100
+  Deliveries: 66/200
+  Stats: Dist=1508.45 Battery=6350.1%
+💥 [Engine] Drone_028 CRASHED at (-0.8388014021808808, -1.0065616826170576) due to battery depletion!
+💥 [Engine] Drone_066 CRASHED at (-0.35355339059327234, 0.35355339059327234) due to battery depletion!
+💥 [Engine] Drone_094 CRASHED at (-5.267373437486304, 9.656851302058229) due to battery depletion!
+💥 [Engine] Drone_049 CRASHED at (6.153950105848459, 8.889039041781103) due to battery depletion!
+💥 [Engine] Drone_057 CRASHED at (7.1484059273402405, 15.19036259559801) due to battery depletion!
+💥 [Engine] Drone_017 CRASHED at (0, 0) due to battery depletion!
+💥 [Engine] Drone_054 CRASHED at (-4.051316701949486, -12.15395010584846) due to battery depletion!
+💥 [Engine] Drone_077 CRASHED at (11.09565595278485, -8.876524762227882) due to battery depletion!
+💥 [Engine] Drone_075 CRASHED at (-9.11759917275959, -6.51257083768542) due to battery depletion!
+💥 [Engine] Drone_082 CRASHED at (-12.150151505092754, 2.557926632651107) due to battery depletion!
+💥 [Engine] Drone_085 CRASHED at (9.710176420471274, 8.415486231075105) due to battery depletion!
+💥 [Engine] Drone_020 CRASHED at (0.369294002526836, 7.016586048009884) due to battery depletion!
+💥 [Engine] Drone_079 CRASHED at (6.573759178135475, -7.121572442980096) due to battery depletion!
+💥 [Engine] Drone_081 CRASHED at (8.548760033154352, -6.269090690979863) due to battery depletion!
+💥 [Engine] Drone_071 CRASHED at (-0.3680152639542065, 0.23000953997137907) due to battery depletion!
+💥 [Engine] Drone_097 CRASHED at (6.429393721611019, 4.133181678178511) due to battery depletion!
+💥 [Engine] Drone_063 CRASHED at (0, 0) due to battery depletion!
+💥 [Engine] Drone_099 CRASHED at (3.4422099127804957, 1.0591415116247682) due to battery depletion!
+💥 [Engine] Drone_023 CRASHED at (2.6219229195686147, 1.01963669094335) due to battery depletion!
+💥 [Engine] Drone_031 CRASHED at (0.34425565413942244, 1.170469224074037) due to battery depletion!
+💥 [Engine] Drone_041 CRASHED at (0.7822418607221746, 2.346725582166524) due to battery depletion!
+
+[Tick 150] Weather: STORMY
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 200] Weather: CLEAR
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 250] Weather: CLEAR
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 300] Weather: WINDY
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 350] Weather: WINDY
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 400] Weather: STORMY
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 450] Weather: CLEAR
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 500] Weather: WINDY
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 550] Weather: STORMY
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 600] Weather: WINDY
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 650] Weather: CLEAR
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 700] Weather: CLEAR
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 750] Weather: STORMY
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 800] Weather: WINDY
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 850] Weather: STORMY
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 900] Weather: CLEAR
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+[Tick 950] Weather: STORMY
+  Active Drones: 49/100
+  Deliveries: 67/200
+  Stats: Dist=1746.72 Battery=7467.48%
+
+--- Final Mission Report ---
+Total Deliveries: 67
+Total Distance: 1746.72
+Total Battery Used: 7467.48%
+Efficiency Score: 0.23 km/%

@@ -1,0 +1,113 @@
+🚀 Initializing KovaiDelivery: Enterprise Edition...
+--- Mission Started: Agent Senior Controller controlling 3 drones ---
+
+[Tick 0] Weather: CLEAR
+  Active Drones: 3/3
+  Deliveries: 0/5
+  Stats: Dist=0 Battery=0%
+📦 [Engine] Speedy picked up order 2001 (0.5kg)
+📦 [Engine] Steady picked up order 2002 (2.0kg)
+📦 [Engine] Sturdy picked up order 2003 (8.0kg)
+💥 [Engine] Sturdy CRASHED at (13.10263340389897, -4.367544467966325) due to battery depletion!
+
+[Tick 50] Weather: STORMY
+  Active Drones: 2/3
+  Deliveries: 3/5
+  Stats: Dist=54.57 Battery=237.29%
+💥 [Engine] Steady CRASHED at (-4.238340403019681, 5.086008483623619) due to battery depletion!
+
+[Tick 100] Weather: STORMY
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 150] Weather: STORMY
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 200] Weather: CLEAR
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 250] Weather: WINDY
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 300] Weather: STORMY
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 350] Weather: STORMY
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 400] Weather: STORMY
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 450] Weather: CLEAR
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 500] Weather: WINDY
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 550] Weather: CLEAR
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 600] Weather: WINDY
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 650] Weather: CLEAR
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 700] Weather: CLEAR
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 750] Weather: CLEAR
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 800] Weather: CLEAR
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 850] Weather: CLEAR
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 900] Weather: STORMY
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+[Tick 950] Weather: STORMY
+  Active Drones: 1/3
+  Deliveries: 3/5
+  Stats: Dist=56.57 Battery=245.43%
+
+--- Final Mission Report ---
+Total Deliveries: 3
+Total Distance: 56.57
+Total Battery Used: 245.43%
+Efficiency Score: 0.23 km/%
